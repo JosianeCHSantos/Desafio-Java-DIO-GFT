@@ -38,7 +38,7 @@ public class Main {
         if (media <= 25) { 
           System.out.println("Jovem!"); 
           
-        }else if (media<=60) { 
+        }else if (media<=60) {
           System.out.println("Adulta!"); 
           
         }else { System.out.println("Idosa!"); 
